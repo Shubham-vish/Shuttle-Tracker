@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "34709872260",
+    "firebase_url": "https://tokyo-hold-187110.firebaseio.com",
+    "project_id": "tokyo-hold-187110",
+    "storage_bucket": "tokyo-hold-187110.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34709872260:android:5bef00d252d13ec7",
+        "android_client_info": {
+          "package_name": "com.iitism.devism.shuttletracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "34709872260-7i8j9s95r57k30euj7n6r1g8o3n2105n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwCbLjZb33ShkSF515MpF4uMCmOlLhwII"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

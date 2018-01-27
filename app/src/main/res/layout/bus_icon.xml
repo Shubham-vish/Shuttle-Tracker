@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+
+    <LinearLayout
+        android:id="@+id/name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_centerHorizontal="true">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:id="@+id/nameBus"
+            android:paddingLeft="2dp"
+            android:layout_gravity="center"
+            android:paddingRight="2dp"
+            android:textSize="18sp"
+            android:text="Campus Shuttle"
+            android:textColor="#000"
+            android:textStyle="bold"
+            android:layout_height="wrap_content" />
+
+    </LinearLayout>
+
+
+    <ImageView
+        android:id="@+id/busIcon"
+        android:layout_width="100dp"
+        android:layout_height="80dp"
+        android:scaleType="centerCrop"
+        android:layout_below="@+id/name"
+        android:layout_centerInParent="true"
+        android:layout_gravity="center"
+        android:src="@drawable/unnamed" />
+</RelativeLayout>
+

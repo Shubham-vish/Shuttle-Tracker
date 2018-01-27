@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/shubham/.android/build-cache/45c90099a16daf6cc632ddcd9b69828f36349f18/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e5b429c146094a612134910688d169ec08deeefb">
+        <dex dex="/home/shubham/ShuttleTracker2/app/build/intermediates/pre-dexed/debug/classes_f36adad3dbc177b45cbb9f60ce179cf32fe0f08f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shubham/.android/build-cache/8d6f561476a50cd1213c8e5bbcf41469930e9a0b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ed87ccdcb70c17d71ba4e6e4ac16afa62d3c49fb">
+        <dex dex="/home/shubham/ShuttleTracker2/app/build/intermediates/pre-dexed/debug/classes_e19837a31eed9e7e648c1cf845075c35756fe7db.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shubham/.android/build-cache/6a74e4422321d596f20e137575f1e56f8d285551/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="1b12397bc9f342b29d9e9108978828f99a6da579">
+        <dex dex="/home/shubham/ShuttleTracker2/app/build/intermediates/pre-dexed/debug/classes_6f3b4ed0629cc55834a73b9ba78982085e9803b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shubham/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.2.2/3c8f6018eaa72d43b261181e801e6f8676c16ef6/jackson-databind-2.2.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3c8f6018eaa72d43b261181e801e6f8676c16ef6">
+        <dex dex="/home/shubham/ShuttleTracker2/app/build/intermediates/pre-dexed/debug/jackson-databind-2.2.2_d696acec714e2c78c730e1b2e4022a3ca433d456.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shubham/.android/build-cache/f97ffc44e8fb37c440feb426fa1e86d62b875d88/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7c24e2e9773fb498e390ce973db382c3ddcf748e">
+        <dex dex="/home/shubham/ShuttleTracker2/app/build/intermediates/pre-dexed/debug/classes_03e842ecda841e370a2cd1a81d7fceef7a7b2a5a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shubham/.android/build-cache/ddabeb6d7e0d1c5a9fb73b7de69b4d59632758e7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e1625e48a836779b5fa141d22e5d05563aaccc9a">
+        <dex dex="/home/shubham/ShuttleTracker2/app/build/intermediates/pre-dexed/debug/classes_d93aa07920d9469bf870d02f306411d133b4264e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shubham/.gradle/caches/modules-2/files-2.1/com.firebase/tubesock/0.0.12/6ec0bbd3e161a73ed672284b587fd32309a86d7a/tubesock-0.0.12.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6ec0bbd3e161a73ed672284b587fd32309a86d7a">
+        <dex dex="/home/shubham/ShuttleTracker2/app/build/intermediates/pre-dexed/debug/tubesock-0.0.12_a9c6fb54852c7f628bf6da24df9129e4a8ca81a6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shubham/.gradle/caches/modules-2/files-2.1/com.firebase/firebase-client-android/2.5.2/f19f10d6276aa0b380e2d05d2ab3272d693a5433/firebase-client-android-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f19f10d6276aa0b380e2d05d2ab3272d693a5433">
+        <dex dex="/home/shubham/ShuttleTracker2/app/build/intermediates/pre-dexed/debug/firebase-client-android-2.5.2_23e8a9453e0e21087f4d62154f21be5aaf965510.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shubham/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.2.2/285cb9c666f0f0f3dd8a1be04e1f457eb7b15113/jackson-annotations-2.2.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="285cb9c666f0f0f3dd8a1be04e1f457eb7b15113">
+        <dex dex="/home/shubham/ShuttleTracker2/app/build/intermediates/pre-dexed/debug/jackson-annotations-2.2.2_f27ad574b293655d1f244ab5177c401813964d40.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shubham/.gradle/caches/modules-2/files-2.1/com.firebase/firebase-client-jvm/2.5.2/91731b8f5868a3e8a8a773f29b8d06b5c358f5bb/firebase-client-jvm-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="91731b8f5868a3e8a8a773f29b8d06b5c358f5bb">
+        <dex dex="/home/shubham/ShuttleTracker2/app/build/intermediates/pre-dexed/debug/firebase-client-jvm-2.5.2_0017e5f7019f905126e3eb6dac983682833f0400.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shubham/.android/build-cache/a1872cf6c14766a72deb44adce38a8f959415d2f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f47f4d5bdfd7d7bf330945b8a7ccce4ab437a710">
+        <dex dex="/home/shubham/ShuttleTracker2/app/build/intermediates/pre-dexed/debug/classes_d3419d3a46b6ff3000c64796b296ea84ae57f14c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shubham/.android/build-cache/6f873a84545a092779341f5dc5694c0fcef7d989/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6f57b76211a1d7b0c1f18873af59faad95664681">
+        <dex dex="/home/shubham/ShuttleTracker2/app/build/intermediates/pre-dexed/debug/classes_1ddb6527c635c9b71d2a36265a308b8db0d0c94f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shubham/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.2/d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b/jackson-core-2.2.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b">
+        <dex dex="/home/shubham/ShuttleTracker2/app/build/intermediates/pre-dexed/debug/jackson-core-2.2.2_f77e8b9beacdc75813abbebbb2109e2def58b5b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shubham/.android/build-cache/a5a8ac868ec08bae4031b232710675ba31a516b5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="43e9789bd3240271265ab30ce1be9f224843f5a8">
+        <dex dex="/home/shubham/ShuttleTracker2/app/build/intermediates/pre-dexed/debug/classes_e6a9757572cf1ea2ff1b1908118268c2bc11c059.jar" />
+    </item>
+
+</items>
